@@ -1,1 +1,1 @@
-# motion_detector
+# motion_detector program. See Screens folder
